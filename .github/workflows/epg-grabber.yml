@@ -32,6 +32,8 @@ jobs:
           rm -f daddyliveSchedule.json
           rm -f daily.m3u8
           rm -f daily.xml
+          rm -f out.m3u8
+          rm -f 247channels.html
           python epg-grabber/getEpgs.py
           python daddyliveSchedule.py
           python daddyscrape.py
