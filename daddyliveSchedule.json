@@ -1,5 +1,62 @@
 {
     "Saturday 01st Feb 2025 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "18:30",
+                "event": "2025 Madhouse Classic at Bowman Gray Stadium",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "174"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "21:00",
+                "event": "Nations Fight Night : Colm Murphy vs. Kasimu Hamad Haji",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "155"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:45",
+                "event": "2025 Lucas Oil Late Model Dirt Series at All-Tech Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "156"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "00:00",
+                "event": "WV Toughman Contest",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "157"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "01:00",
+                "event": "Cage Fury FC 139 (CFFC): Hasan vs. Hauser",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "158"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
         "TV Shows": [
             {
                 "time": "12:30",
@@ -8658,7 +8715,7 @@
                     },
                     {
                         "channel_name": "ESPN 2 BR",
-                        "channel_id": "473"
+                        "channel_id": "82"
                     }
                 ],
                 "channels2": []
