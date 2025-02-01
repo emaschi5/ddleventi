@@ -5576,6 +5576,10 @@
                 "event": "BYB 36: Cardiff Brawl 2",
                 "channels": [
                     {
+                        "channel_name": "PPV Feed",
+                        "channel_id": "204"
+                    },
+                    {
                         "channel_name": "Sport Klub Fight",
                         "channel_id": "167"
                     }
@@ -5752,6 +5756,10 @@
                     {
                         "channel_name": "Netflix PPV",
                         "channel_id": "154"
+                    },
+                    {
+                        "channel_name": "WWE PPV",
+                        "channel_id": "159"
                     },
                     {
                         "channel_name": "WWE Network",
