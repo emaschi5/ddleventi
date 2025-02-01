@@ -17,6 +17,11 @@ LOGO = "https://raw.githubusercontent.com/emaschi5/daddylive/refs/heads/main/str
 mStartTime = 0
 mStopTime = 0
 
+# Remove existing files to ensure they are always regenerated
+for file in [M3U8_OUTPUT_FILE, EPG_OUTPUT_FILE, DADDY_JSON_FILE]:
+    if os.path.exists(file):
+        os.remove(file)
+
 # Funzioni
 def generate_unique_ids(count, seed=42):
     random.seed(seed)
