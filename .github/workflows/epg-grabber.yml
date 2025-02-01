@@ -29,6 +29,9 @@ jobs:
         env:
           M3U4U_EPG: ${{ secrets.M3U4U_EPG }}
         run: |
+          rm -f daddyliveSchedule.json
+          rm -f daily.m3u8
+          rm -f daily.xml
           python epg-grabber/getEpgs.py
           python daddyliveSchedule.py
           python daddyscrape.py
