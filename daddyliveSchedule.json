@@ -5752,6 +5752,18 @@
                     {
                         "channel_name": "Netflix PPV",
                         "channel_id": "154"
+                    },
+                    {
+                        "channel_name": "WWE Network",
+                        "channel_id": "376"
+                    },
+                    {
+                        "channel_name": "Sony Ten 1",
+                        "channel_id": "885"
+                    },
+                    {
+                        "channel_name": "Sony Ten 3",
+                        "channel_id": "887"
                     }
                 ],
                 "channels2": []
