@@ -1,5 +1,29 @@
 {
     "Tuesday 04th Feb 2025 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "22:15",
+                "event": "Dirt Track Races at Volusia Speedway Park",
+                "channels": [
+                    {
+                        "channel_name": "Motor PPV",
+                        "channel_id": "153"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:45",
+                "event": "Lucas Oil Late Models at Ocala",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "154"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
         "TV Shows": [
             {
                 "time": "13:00",
@@ -3583,7 +3607,7 @@
             },
             {
                 "time": "00:30",
-                "event": "NBA : New York Knicks vs Toronto Raptors (Home)",
+                "event": "NBA : New York Knicks vs Toronto Raptors",
                 "channels": [
                     {
                         "channel_name": "Home Feed",
