@@ -177,23 +177,23 @@
                 "channels2": []
             },
             {
-                "time": "18:00",
-                "event": "FanDuel Racing Live",
-                "channels": [
-                    {
-                        "channel_name": "MASN USA",
-                        "channel_id": "829"
-                    }
-                ],
-                "channels2": []
-            },
-            {
                 "time": "17:00",
                 "event": "Oceanfront Property Hunt Season 1, Episode 16",
                 "channels": [
                     {
                         "channel_name": "A&amp;E TV USA",
                         "channel_id": "302"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "18:00",
+                "event": "FanDuel Racing Live",
+                "channels": [
+                    {
+                        "channel_name": "MASN USA",
+                        "channel_id": "829"
                     }
                 ],
                 "channels2": []
@@ -6280,6 +6280,17 @@
             },
             {
                 "time": "16:30",
+                "event": "Polska Liga Koszyk\u00f3wki : Trefl Sopot vs. Slask Wroclaw",
+                "channels": [
+                    {
+                        "channel_name": "Polsat Sport 2 Poland",
+                        "channel_id": "50"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "16:30",
                 "event": "Austria - ABL : Gunners Oberwart vs Arkadia Traiskirchen",
                 "channels": [],
                 "channels2": [
@@ -6351,17 +6362,6 @@
                     {
                         "channel_name": "FOX USA",
                         "channel_id": "54"
-                    }
-                ],
-                "channels2": []
-            },
-            {
-                "time": "16:30",
-                "event": "Polska Liga Koszyk\u00f3wki : Trefl Sopot vs. Slask Wroclaw",
-                "channels": [
-                    {
-                        "channel_name": "Polsat Sport 2 Poland",
-                        "channel_id": "50"
                     }
                 ],
                 "channels2": []
@@ -6485,17 +6485,6 @@
                     {
                         "channel_name": "Eleven Sports 3 Portugal",
                         "channel_id": "457"
-                    }
-                ],
-                "channels2": []
-            },
-            {
-                "time": "17:00",
-                "event": "NCAA : Michigan State vs Oregon",
-                "channels": [
-                    {
-                        "channel_name": "FOX USA",
-                        "channel_id": "54"
                     }
                 ],
                 "channels2": []
