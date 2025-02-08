@@ -1,5 +1,29 @@
 {
     "Saturday 08th Feb 2025 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "15:00",
+                "event": "2025 RMSHA Salt Pass Border Dash",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "197"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "16:00",
+                "event": "2025 PRO Superstar Shootout at Bradenton Motorsports Park",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "198"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
         "TV Shows": [
             {
                 "time": "13:30",
@@ -5701,7 +5725,7 @@
             },
             {
                 "time": "19:00",
-                "event": "King of Kings (KOK) : Tomas Markus vs Ragners Dzhigurs",
+                "event": "King of Kings (KOK) : Zaurs D\u017eavadovs vs Hendrik Themas",
                 "channels": [
                     {
                         "channel_name": "DAZN PPV",
