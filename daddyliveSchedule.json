@@ -6578,6 +6578,10 @@
                     {
                         "channel_name": "Sky Sport Bundesliga 2",
                         "channel_id": "3"
+                    },
+                    {
+                        "channel_name": "Sky Sport Top Event DE",
+                        "channel_id": "556"
                     }
                 ],
                 "channels2": []
@@ -7214,6 +7218,10 @@
                     {
                         "channel_name": "Zona DAZN IT",
                         "channel_id": "877"
+                    },
+                    {
+                        "channel_name": "DAZN2 DE",
+                        "channel_id": "427"
                     },
                     {
                         "channel_name": "Ziggo Sport 1 NL",
@@ -7942,6 +7950,17 @@
                 "channels2": []
             },
             {
+                "time": "15:00",
+                "event": "Morocco - Botola Pro : Maghreb F\u00e8s vs CODM Mekn\u00e8s",
+                "channels": [
+                    {
+                        "channel_name": "Arryadia 3",
+                        "channel_id": "196"
+                    }
+                ],
+                "channels2": []
+            },
+            {
                 "time": "15:15",
                 "event": "Spain La Liga : Athletic Club vs Girona",
                 "channels": [
@@ -8605,6 +8624,17 @@
                 "channels2": []
             },
             {
+                "time": "17:00",
+                "event": "Morocco - Botola Pro : FAR Rabat vs Ittihad Tanger",
+                "channels": [
+                    {
+                        "channel_name": "Arryadia 3",
+                        "channel_id": "196"
+                    }
+                ],
+                "channels2": []
+            },
+            {
                 "time": "17:15",
                 "event": "Belgium - Pro League : Dender vs Sint-Truiden",
                 "channels": [
@@ -9156,6 +9186,17 @@
                     {
                         "channel_name": "ESPN 1 NL",
                         "channel_id": "379"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "19:00",
+                "event": "Morocco - Botola Pro : Olympic Safi vs Difa\u00e2 El Jadida",
+                "channels": [
+                    {
+                        "channel_name": "Arryadia 3",
+                        "channel_id": "196"
                     }
                 ],
                 "channels2": []
@@ -10045,7 +10086,7 @@
             },
             {
                 "time": "15:30",
-                "event": "SA20 2025 Final : Cape Town vs TBC",
+                "event": "SA20 2025 Final : MI Cape Town vs Sunrisers Eastern Cape",
                 "channels": [
                     {
                         "channel_name": "Willow Xtra",
@@ -10168,6 +10209,30 @@
                     {
                         "channel_name": "Tennis Channel",
                         "channel_id": "40"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
+        "Motorsport": [
+            {
+                "time": "10:00",
+                "event": "Asian Le Mans Series 2024\/2025. 4 Of Dubai Race 1. Malaysia",
+                "channels": [
+                    {
+                        "channel_name": "Motowizja Poland",
+                        "channel_id": "563"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "02:30",
+                "event": "AMA Arenacross Series 2025 AMA Arenacross - Rd 11",
+                "channels": [
+                    {
+                        "channel_name": "MAVTV USA",
+                        "channel_id": "646"
                     }
                 ],
                 "channels2": []
@@ -11742,6 +11807,10 @@
                     {
                         "channel_name": "TNT Sports 2 UK",
                         "channel_id": "32"
+                    },
+                    {
+                        "channel_name": "DAZN2 DE",
+                        "channel_id": "427"
                     },
                     {
                         "channel_name": "Spectrum SportsNet USA",
