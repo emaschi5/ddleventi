@@ -13517,6 +13517,250 @@
                 "channels2": []
             }
         ],
+        "Tennis ATP - ROTTERDAM": [
+            {
+                "time": "14:30",
+                "event": "ATP - ROTTERDAM : Alcaraz C. vs De Minaur A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
+        "Tennis ATP - DALLAS": [
+            {
+                "time": "19:00",
+                "event": "ATP - DALLAS : Shapovalov D. vs Ruud C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
+        "Tennis WTA - CLUJ-NAPOCA": [
+            {
+                "time": "12:30",
+                "event": "WTA - CLUJ-NAPOCA : Cristian J.\/Moratelli A. vs Kempen M.\/Siskova A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 5",
+                        "channel_id": "1505"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - CLUJ-NAPOCA : Potapova A. vs Bronzetti L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 5",
+                        "channel_id": "1505"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
+        "Tennis WTA - ABU DHABI": [
+            {
+                "time": "11:00",
+                "event": "WTA - ABU DHABI : Bucsa C. vs Kalinskaya A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 6",
+                        "channel_id": "1506"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "11:00",
+                "event": "WTA - ABU DHABI : Parks A. vs Shnaider D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 3",
+                        "channel_id": "1503"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "11:00",
+                "event": "WTA - ABU DHABI : Yuan Y. vs Garcia C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 21",
+                        "channel_id": "1521"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "11:00",
+                "event": "WTA - ABU DHABI : Babos T.\/Melichar-Martinez N. vs Stearns P.\/Stefani L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 7",
+                        "channel_id": "1507"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "12:30",
+                "event": "WTA - ABU DHABI : Mertens E. vs Tauson C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 3",
+                        "channel_id": "1503"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "12:30",
+                "event": "WTA - ABU DHABI : Minnen G. vs Fernandez L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1502"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "12:30",
+                "event": "WTA - ABU DHABI : Sakkari M. vs Ruse G.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 21",
+                        "channel_id": "1521"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "12:30",
+                "event": "WTA - ABU DHABI : Eikeri U.\/Niculescu M. vs Noskova L.\/Putintseva Y.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 7",
+                        "channel_id": "1507"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "12:30",
+                "event": "WTA - ABU DHABI : Mattek-Sands B.\/Safarova L. vs Xu Y.\/Yang Z.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 6",
+                        "channel_id": "1506"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "14:00",
+                "event": "WTA - ABU DHABI : Kostyuk M. vs Sonmez Z.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 3",
+                        "channel_id": "1503"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "14:00",
+                "event": "WTA - ABU DHABI : Samsonova L. vs Sun L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1502"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "14:00",
+                "event": "WTA - ABU DHABI : Volynets K. vs Andreeva M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 21",
+                        "channel_id": "1521"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "15:30",
+                "event": "WTA - ABU DHABI : Avanesyan E. vs Wang Xin.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 3",
+                        "channel_id": "1503"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "15:30",
+                "event": "WTA - ABU DHABI : Frech M. vs Haddad Maia B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1502"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "17:00",
+                "event": "WTA - ABU DHABI : Raducanu E. vs Alexandrova E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 21",
+                        "channel_id": "1521"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "17:00",
+                "event": "WTA - ABU DHABI : Anisimova A. vs Azarenka V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 21",
+                        "channel_id": "1521"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
         "Tennis": [
             {
                 "time": "14:30",
