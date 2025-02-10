@@ -1,5 +1,40 @@
 {
     "Monday 10th Feb 2025 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "22:15",
+                "event": "Dirt Track Races tt Volusia Speedway Park",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "55"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:30",
+                "event": "2025 USAC AMSOIL National Sprint Cars at Volusia Speedway Park",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "59"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:00",
+                "event": "2025 World Series of Asphalt at New Smyrna Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "68"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
         "TV Show": [
             {
                 "time": "13:30",
@@ -1146,7 +1181,7 @@
                     },
                     {
                         "channel_name": "Digi Sport 2 Romania",
-                        "channel_id": "301"
+                        "channel_id": "401"
                     },
                     {
                         "channel_name": "TV4 Football Sweden",
