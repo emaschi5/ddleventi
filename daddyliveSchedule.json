@@ -6714,7 +6714,12 @@
                         "channel_id": "24"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7385331",
+                        "channel_id": "7385331"
+                    }
+                ]
             },
             {
                 "time": "17:30",
@@ -6739,6 +6744,83 @@
                 "channels2": []
             },
             {
+                "time": "17:30",
+                "event": "Germany - BBL : Syntainics MBC vs Rasta Vechta",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7385332",
+                        "channel_id": "7385332"
+                    }
+                ]
+            },
+            {
+                "time": "18:04",
+                "event": "Sweden - Ligan : Hogsbo vs Sodertalje",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7385359",
+                        "channel_id": "7385359"
+                    }
+                ]
+            },
+            {
+                "time": "18:04",
+                "event": "Sweden - Ligan : Koping vs Nassjo",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7385358",
+                        "channel_id": "7385358"
+                    }
+                ]
+            },
+            {
+                "time": "18:04",
+                "event": "Sweden - Ligan : Jamtland vs Boras",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7385357",
+                        "channel_id": "7385357"
+                    }
+                ]
+            },
+            {
+                "time": "18:04",
+                "event": "Sweden - Ligan : Norrkoping Dolphins vs Umea IK",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7385356",
+                        "channel_id": "7385356"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "Germany - BBL : Ludwigsburg vs Bonn",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7385378",
+                        "channel_id": "7385378"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "Germany - BBL : Bayern Munchen vs Skyliners Frankfurt",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7289198",
+                        "channel_id": "7289198"
+                    }
+                ]
+            },
+            {
                 "time": "19:00",
                 "event": "Croatia Cup : KK Zabok vs. Kk Cedevita Zagreb Junior",
                 "channels": [
@@ -6748,6 +6830,39 @@
                     }
                 ],
                 "channels2": []
+            },
+            {
+                "time": "19:15",
+                "event": "Spain - LEB Oro : Real Betis vs CD Estela de Cantabria",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7358658",
+                        "channel_id": "7358658"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "Spain - LEB Oro : Obradoiro vs Cartagena",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7385294",
+                        "channel_id": "7385294"
+                    }
+                ]
+            },
+            {
+                "time": "19:45",
+                "event": "Spain - LEB Oro : Castello vs Fuenlabrada",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7385293",
+                        "channel_id": "7385293"
+                    }
+                ]
             },
             {
                 "time": "00:00",
@@ -7069,7 +7184,12 @@
                         "channel_id": "144"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7374707",
+                        "channel_id": "7374707"
+                    }
+                ]
             },
             {
                 "time": "00:30",
@@ -7132,7 +7252,12 @@
                         "channel_id": "90"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7374811",
+                        "channel_id": "7374811"
+                    }
+                ]
             },
             {
                 "time": "01:00",
@@ -7155,7 +7280,12 @@
                         "channel_id": "891"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7374801",
+                        "channel_id": "7374801"
+                    }
+                ]
             },
             {
                 "time": "03:00",
@@ -7190,7 +7320,12 @@
                         "channel_id": "113"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7374713",
+                        "channel_id": "7374713"
+                    }
+                ]
             }
         ],
         "Handball": [
@@ -7376,6 +7511,17 @@
                 "channels2": []
             },
             {
+                "time": "14:00",
+                "event": "KHL : Traktor Chelyabinsk vs. Metallurg Magnitogorsk",
+                "channels": [
+                    {
+                        "channel_name": "Arena Sport 1 Croatia",
+                        "channel_id": "432"
+                    }
+                ],
+                "channels2": []
+            },
+            {
                 "time": "16:00",
                 "event": "KHL : Ak Bars Kazan vs Torpedo Nizhny Novgorod",
                 "channels": [
@@ -7385,6 +7531,22 @@
                     }
                 ],
                 "channels2": []
+            },
+            {
+                "time": "16:00",
+                "event": "Slovakia, Extraliga : Dukla Michalovce vs. Nove Zamky",
+                "channels": [
+                    {
+                        "channel_name": "JOJ Sport Slovakia HD",
+                        "channel_id": "11"
+                    }
+                ],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7357615",
+                        "channel_id": "7357615"
+                    }
+                ]
             },
             {
                 "time": "16:30",
@@ -7398,6 +7560,39 @@
                 "channels2": []
             },
             {
+                "time": "16:30",
+                "event": "Finland - Mestis : Keupa vs Tuto",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7385318",
+                        "channel_id": "7385318"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "Finland - Liiga : Vaasan Sport vs KalPa Kuopio",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7251131",
+                        "channel_id": "7251131"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "Czech - 1. Liga : Torax Poruba vs Stadion Litomerice",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7385328",
+                        "channel_id": "7385328"
+                    }
+                ]
+            },
+            {
                 "time": "18:00",
                 "event": "SHL : Orebro vs Rogle",
                 "channels": [
@@ -7406,7 +7601,12 @@
                         "channel_id": "705"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7251170",
+                        "channel_id": "7251170"
+                    }
+                ]
             },
             {
                 "time": "18:00",
@@ -7417,7 +7617,12 @@
                         "channel_id": "706"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7251172",
+                        "channel_id": "7251172"
+                    }
+                ]
             },
             {
                 "time": "18:00",
@@ -7428,7 +7633,12 @@
                         "channel_id": "703"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7251129",
+                        "channel_id": "7251129"
+                    }
+                ]
             },
             {
                 "time": "18:00",
@@ -7439,7 +7649,12 @@
                         "channel_id": "707"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7251168",
+                        "channel_id": "7251168"
+                    }
+                ]
             },
             {
                 "time": "18:00",
@@ -7450,7 +7665,12 @@
                         "channel_id": "700"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7251169",
+                        "channel_id": "7251169"
+                    }
+                ]
             },
             {
                 "time": "18:00",
@@ -7465,7 +7685,12 @@
                         "channel_id": "640"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7251171",
+                        "channel_id": "7251171"
+                    }
+                ]
             },
             {
                 "time": "18:00",
@@ -7476,18 +7701,100 @@
                         "channel_id": "704"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7251130",
+                        "channel_id": "7251130"
+                    }
+                ]
             },
             {
-                "time": "16:00",
-                "event": "Slovakia, Extraliga : Dukla Michalovce vs. Nove Zamky",
-                "channels": [
+                "time": "18:00",
+                "event": "Denmark - Metal Ligaen : Odense Bulldogs vs Rungsted Seier Capital",
+                "channels": [],
+                "channels2": [
                     {
-                        "channel_name": "JOJ Sport Slovakia HD",
-                        "channel_id": "11"
+                        "channel_name": "SD-7385336",
+                        "channel_id": "7385336"
                     }
-                ],
-                "channels2": []
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "Sweden - AllEttan Norra : Pitea vs Hudiksvalls",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7385351",
+                        "channel_id": "7385351"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "Alps Hockey League - Turul castigatorilor : Zeller Eisbaren vs Jesenice",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7443768",
+                        "channel_id": "7443768"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "Alps Hockey League - Turul invinsilor - Gr.B : Bregenzerwald vs Unterland Cavaliers",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7443766",
+                        "channel_id": "7443766"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "Elvetia - NLB - Playoff : La Chaux-de-Fonds vs EHC Olten",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7427871",
+                        "channel_id": "7427871"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "Elvetia - NLB - Playoff : Visp vs Sierre",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7427873",
+                        "channel_id": "7427873"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "Elvetia - NLB - Playoff : EHC Basel vs GCK Lions",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7427874",
+                        "channel_id": "7427874"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "Elvetia - NLB - Playoff : Thurgau vs EHC Chur Capricorns",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7427872",
+                        "channel_id": "7427872"
+                    }
+                ]
             },
             {
                 "time": "18:45",
@@ -7550,6 +7857,39 @@
                 ]
             },
             {
+                "time": "19:00",
+                "event": "Alps Hockey League - Turul castigatorilor : Ritten vs Kitzbuhel",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7443769",
+                        "channel_id": "7443769"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "Alps Hockey League - Turul invinsilor - Gr.A : Gherdeina vs RB Salzburg II",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7443771",
+                        "channel_id": "7443771"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "Alps Hockey League - Turul invinsilor - Gr.A : Merano vs Vipiteno",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7443770",
+                        "channel_id": "7443770"
+                    }
+                ]
+            },
+            {
                 "time": "00:00",
                 "event": "PWHL Women : Toronto Sceptres vs. Minnesota Frost",
                 "channels": [
@@ -7588,17 +7928,6 @@
                     {
                         "channel_name": "Nova Sport 1 Czech HD",
                         "channel_id": "9"
-                    }
-                ],
-                "channels2": []
-            },
-            {
-                "time": "14:00",
-                "event": "KHL : Traktor Chelyabinsk vs. Metallurg Magnitogorsk",
-                "channels": [
-                    {
-                        "channel_name": "Arena Sport 1 Croatia",
-                        "channel_id": "432"
                     }
                 ],
                 "channels2": []
