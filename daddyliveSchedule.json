@@ -1,5 +1,117 @@
 {
     "Friday 14th Feb 2025 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "22:15",
+                "event": "Dirt Track Races tt Volusia Speedway Park",
+                "channels": [
+                    {
+                        "channel_name": "Motor PPV",
+                        "channel_id": "59"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:00",
+                "event": "2025 USAC AMSOIL National Sprint Cars at Ocala Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "68"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:30",
+                "event": "USCS Winter Series @ Southern Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "69"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "00:00",
+                "event": "WV Toughman Contest",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "76"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "00:30",
+                "event": "Alessi Promotions: A Night of Professional Boxing, February 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "77"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "01:00",
+                "event": "NCL 51: All Roads Lead North PPV",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "86"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "01:00",
+                "event": "2025 World Series of Asphalt at New Smyrna Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "105"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "01:30",
+                "event": "Budo Striking Vol 27",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "106"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "01:30",
+                "event": "Budo Sento Championship 27 PPV",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "107"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "03:00",
+                "event": "Tuff-N-Uff 141",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "108"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
         "TV Shows": [
             {
                 "time": "13:00",
@@ -3587,7 +3699,7 @@
                 "channels2": []
             },
             {
-                "time": "18:00",
+                "time": "19:30",
                 "event": "Ares FC 29: Younousov vs Alcino",
                 "channels": [
                     {
