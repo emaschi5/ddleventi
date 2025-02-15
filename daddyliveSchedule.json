@@ -1,5 +1,128 @@
 {
     "Saturday 15th Feb 2025 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "14:30",
+                "event": "Monster Energy AMA Supercross Championship Detroit",
+                "channels": [
+                    {
+                        "channel_name": "Peacock",
+                        "channel_id": "205"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "17:00",
+                "event": "East vs West Armwrestling 16",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "206"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "17:30",
+                "event": "The Way of Warrior FC : WOW 16: Bilbao",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "207"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:15",
+                "event": "Dirt Track Races at Volusia Speedway Park",
+                "channels": [
+                    {
+                        "channel_name": "Motor PPV",
+                        "channel_id": "151"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:45",
+                "event": "2025 USAC AMSOIL National Sprint Cars at Ocala Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "152"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:30",
+                "event": "USCS Winter Series @ Southern Raceway.",
+                "channels": [
+                    {
+                        "channel_name": "Motor PPV",
+                        "channel_id": "153"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "00:00",
+                "event": "WV Toughman Contest",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "154"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "00:00",
+                "event": "2025 World Series of Asphalt at New Smyrna Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "155"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "00:30",
+                "event": "Love and War : Rashidi Ellis vs. Jose Angulo",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "156"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "01:00",
+                "event": "GCW | JCW: Jersey J-Cup 2025, Night One",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "157"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "03:00",
+                "event": "FSW: Valentine's Day Massacre 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "158"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
         "TV Shows": [
             {
                 "time": "13:30",
