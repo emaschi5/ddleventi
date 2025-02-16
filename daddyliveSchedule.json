@@ -1,5 +1,18 @@
 {
     "Sunday 16th Feb 2025 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "22:00",
+                "event": "GCW | JCW: Jersey J-Cup 2025, Night Two",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "59"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
         "TV Shows": [
             {
                 "time": "14:00",
