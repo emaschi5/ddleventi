@@ -6964,7 +6964,7 @@
             },
             {
                 "time": "15:00",
-                "event": "German Cup Final",
+                "event": "German Cup Final : Syntainics MBC vs Bamberg",
                 "channels": [
                     {
                         "channel_name": "Sport Klub 3 Serbia",
@@ -7105,7 +7105,7 @@
             },
             {
                 "time": "16:15",
-                "event": "FINALE : ITALIAN CUP",
+                "event": "Italian Cup : Olimpia Milano vs Trento",
                 "channels": [
                     {
                         "channel_name": "Arena Sport 3 Croatia",
@@ -7124,7 +7124,7 @@
             },
             {
                 "time": "16:30",
-                "event": "Men's basketball final match : Pekao SA Polish Cup",
+                "event": "Polish Cup Final : Gornik Walbrzych vs Szczecin",
                 "channels": [
                     {
                         "channel_name": "Polsat Sport 3 Poland",
@@ -7305,7 +7305,7 @@
             },
             {
                 "time": "18:00",
-                "event": "French Cup: Final",
+                "event": "French Cup: Final : Le Mans vs Monaco",
                 "channels": [
                     {
                         "channel_name": "Sport Klub 4 Serbia",
@@ -7480,7 +7480,7 @@
             },
             {
                 "time": "19:00",
-                "event": "Spanish Cup : Basketball King Cup (T2025): Final",
+                "event": "Spanish Cup : Basketball King Cup (T2025): Final : CB Unicaja Malaga vs. Real Madrid",
                 "channels": [
                     {
                         "channel_name": "Movistar Deportes Spain",
