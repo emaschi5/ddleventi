@@ -1,18 +1,5 @@
 {
     "Tuesday 18th Feb 2025 - Schedule Time UK GMT": {
-        "TEST": [
-            {
-                "time": "06:30",
-                "event": "62nd ISPS Handa Halberg Awards",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sport 1 NZ",
-                        "channel_id": "588"
-                    }
-                ],
-                "channels2": []
-            }
-        ],
         "TV Shows": [
             {
                 "time": "06:30",
