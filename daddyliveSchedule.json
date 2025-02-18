@@ -5993,6 +5993,400 @@
                 "channels2": []
             }
         ],
+        "Tennis ATP - DOHA": [
+            {
+                "time": "11:30",
+                "event": "ATP - DOHA : Safiullin R. vs De Minaur A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 22",
+                        "channel_id": "1522"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "11:30",
+                "event": "ATP - DOHA : Van De Zandschulp B. vs Shelbayh A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 11",
+                        "channel_id": "1511"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "11:30",
+                "event": "ATP - DOHA : Zhang Z. vs Nardi L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 12",
+                        "channel_id": "1512"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "11:30",
+                "event": "ATP - DOHA : Virtanen O. vs Borges N.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 9",
+                        "channel_id": "1509"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "13:00",
+                "event": "ATP - DOHA : Khachanov K. vs Medvedev D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 22",
+                        "channel_id": "1522"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "13:00",
+                "event": "ATP - DOHA : Rublev A. vs Bublik A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 11",
+                        "channel_id": "1511"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "13:00",
+                "event": "ATP - DOHA : Bergs Z. vs Bautista-Agut R.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 12",
+                        "channel_id": "1512"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "13:00",
+                "event": "ATP - DOHA : Struff J-L. vs Griekspoor T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 9",
+                        "channel_id": "1509"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "14:30",
+                "event": "ATP - DOHA : Djokovic N. vs Berrettini M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 22",
+                        "channel_id": "1522"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "14:30",
+                "event": "ATP - DOHA : Halys Q. vs Auger-Aliassime F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 11",
+                        "channel_id": "1511"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "16:00",
+                "event": "ATP - DOHA : Tsitsipas S. vs Medjedovic H.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 22",
+                        "channel_id": "1522"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
+        "Tennis WTA - DUBAI": [
+            {
+                "time": "07:00",
+                "event": "WTA - DOHA : Lys E. vs Paolini J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1502"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "07:00",
+                "event": "WTA - DOHA : Shnaider D. vs Noskova L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 21",
+                        "channel_id": "1521"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 9",
+                        "channel_id": "1509"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "07:00",
+                "event": "WTA - DOHA : Rybakina E. vs Uchijima M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 3",
+                        "channel_id": "1503"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 10",
+                        "channel_id": "1510"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "07:00",
+                "event": "WTA - DOHA : Mertens E. vs Badosa P.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 6",
+                        "channel_id": "1506"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "08:30",
+                "event": "WTA - DOHA : Azarenka V. vs Swiatek I.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1502"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "08:30",
+                "event": "WTA - DOHA : Potapova A. vs Yastremska D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 9",
+                        "channel_id": "1509"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 3",
+                        "channel_id": "1503"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "08:30",
+                "event": "WTA - DOHA : Samsonova L. vs Pegula J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 21",
+                        "channel_id": "1521"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 10",
+                        "channel_id": "1510"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "08:30",
+                "event": "WTA - DOHA : Kenin S. vs Kostyuk M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 6",
+                        "channel_id": "1506"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "10:00",
+                "event": "WTA - DOHA : Gauff C. vs Kessler M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1502"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "10:00",
+                "event": "WTA - DOHA : Tauson C. vs Svitolina E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 21",
+                        "channel_id": "1521"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 10",
+                        "channel_id": "1510"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "10:00",
+                "event": "WTA - DOHA : Noskova L.\/Putintseva Y. vs Dabrowski G.\/Routliffe E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 3",
+                        "channel_id": "1503"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "10:00",
+                "event": "WTA - DOHA : Errani S.\/Paolini J. vs Panova A.\/Stollar F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 6",
+                        "channel_id": "1506"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "11:30",
+                "event": "WTA - DOHA : Raducanu E. vs Muchova K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1510"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 21",
+                        "channel_id": "1521"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "13:00",
+                "event": "WTA - DOHA : Vondrousova M. vs Andreeva M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 6",
+                        "channel_id": "1506"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "13:30",
+                "event": "WTA - DOHA : Cirstea S. vs Parks A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 3",
+                        "channel_id": "1503"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "14:30",
+                "event": "WTA - DOHA : Zheng Q. vs Stearns P.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1502"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "13:30",
+                "event": "WTA - DOHA : Mihalikova T.\/Nicholls O. vs Xu Y.\/Yang Z.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 6",
+                        "channel_id": "1506"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "13:30",
+                "event": "WTA - DOHA : Kessler M.\/Tauson C. vs Mladenovic K.\/Zhang S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 3",
+                        "channel_id": "1503"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "16:00",
+                "event": "WTA - DOHA : Sabalenka A. vs Kudermetova V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1502"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
         "Field Hockey": [
             {
                 "time": "14:00",
