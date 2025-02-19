@@ -133,7 +133,7 @@
                 "channels": [
                     {
                         "channel_name": "Nick Jr. USA",
-                        "channel_id": "929"
+                        "channel_id": "329"
                     }
                 ],
                 "channels2": []
@@ -159,7 +159,7 @@
                 "channels": [
                     {
                         "channel_name": "NICK USA",
-                        "channel_id": "930"
+                        "channel_id": "330"
                     }
                 ],
                 "channels2": []
@@ -5866,7 +5866,7 @@
         ],
         "Futsal": [
             {
-                "time": "21:01",
+                "time": "22:25",
                 "event": "222:30 FUTSAL CUP : AEL Limassol vs AC Omonia Nicosia",
                 "channels": [
                     {
