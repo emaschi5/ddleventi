@@ -6363,56 +6363,60 @@
             {
                 "time": "17:30",
                 "event": "Germany - Bundesliga 2 : Hamburger SV vs Kaiserslautern",
-                "channels": {
-                    "0": {
+                "channels": [
+                    {
                         "channel_name": "Sky Sport Bundesliga 2",
                         "channel_id": "8"
                     },
-                    "2": {
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "168"
+                    },
+                    {
                         "channel_name": "Eleven Sports 1 Portugal",
                         "channel_id": "455"
                     },
-                    "3": {
+                    {
                         "channel_name": "Match! Football 3 Russia",
                         "channel_id": "138"
                     },
-                    "4": {
+                    {
                         "channel_name": "Tivibu Spor 2 Turkey",
                         "channel_id": "86"
                     },
-                    "5": {
+                    {
                         "channel_name": "Digi Sport 2 Romania",
                         "channel_id": "401"
                     },
-                    "6": {
+                    {
                         "channel_name": "Prima Sport 3 Romania",
                         "channel_id": "585"
                     },
-                    "7": {
+                    {
                         "channel_name": "Nova Sports 2 Greece",
                         "channel_id": "632"
                     },
-                    "8": {
+                    {
                         "channel_name": "Fox Sports Argentina",
                         "channel_id": "787"
                     },
-                    "9": {
+                    {
                         "channel_name": "Diema Sport 3 Bulgaria",
                         "channel_id": "467"
                     },
-                    "10": {
+                    {
                         "channel_name": "Sport Klub 4 Serbia",
                         "channel_id": "104"
                     },
-                    "11": {
+                    {
                         "channel_name": "beIN Sports MENA 2",
                         "channel_id": "92"
                     },
-                    "12": {
+                    {
                         "channel_name": "Sport 4 Israel",
                         "channel_id": "143"
                     }
-                },
+                ],
                 "channels2": []
             },
             {
@@ -8119,6 +8123,17 @@
         ],
         "Baseball": [
             {
+                "time": "11:00",
+                "event": "World Baseball Classic Qualifiers 2025 : Spain vs Chinese Taipei",
+                "channels": [
+                    {
+                        "channel_name": "MLB Network USA",
+                        "channel_id": "399"
+                    }
+                ],
+                "channels2": []
+            },
+            {
                 "time": "18:00",
                 "event": "MLB : Northeastern vs Boston Red Sox",
                 "channels": [
@@ -8205,17 +8220,6 @@
                 "channels2": []
             },
             {
-                "time": "11:00",
-                "event": "2025 World Baseball Classic Qualifiers : Spain vs Chinese Taipei",
-                "channels": [
-                    {
-                        "channel_name": "MLB Network USA",
-                        "channel_id": "399"
-                    }
-                ],
-                "channels2": []
-            },
-            {
                 "time": "21:00",
                 "event": "College Baseball : Andre Dawson Classic: Alabama State vs Grambling State",
                 "channels": [
@@ -8228,7 +8232,7 @@
             },
             {
                 "time": "01:00",
-                "event": "College Baseball Andre Dawson Classic: Missouri vs. Florida A&amp;M",
+                "event": "College Baseball : Andre Dawson Classic: Missouri vs. Florida A&amp;M",
                 "channels": [
                     {
                         "channel_name": "MLB Network USA",
@@ -9027,7 +9031,7 @@
             },
             {
                 "time": "02:00",
-                "event": "Women's College Gymnastics : Florida at Oklahoma",
+                "event": "Women's College Gymnastics : Florida vs Oklahoma",
                 "channels": [
                     {
                         "channel_name": "ESPN2 USA",
@@ -9243,83 +9247,6 @@
         ],
         "Ice Hockey": [
             {
-                "time": "16:30",
-                "event": "Slovakia Extraliga : Spisska Nova Ves vs. HK Nitra",
-                "channels": [
-                    {
-                        "channel_name": "JOJ Sport Slovakia HD",
-                        "channel_id": "1"
-                    }
-                ],
-                "channels2": []
-            },
-            {
-                "time": "19:30",
-                "event": "France Ligue Magnus : Jokers de Cergy-Pontoise vs Br\u00fbleurs de Loups Grenoble",
-                "channels": [
-                    {
-                        "channel_name": "Sport en France",
-                        "channel_id": "158"
-                    }
-                ],
-                "channels2": []
-            },
-            {
-                "time": "23:00",
-                "event": "College Hockey : Penn State vs Michigan State",
-                "channels": [
-                    {
-                        "channel_name": "BTN USA",
-                        "channel_id": "397"
-                    }
-                ],
-                "channels2": []
-            },
-            {
-                "time": "00:00",
-                "event": "College Hockey : St. Lawrence vs Colgate",
-                "channels": [
-                    {
-                        "channel_name": "SportsNet New York USA",
-                        "channel_id": "759"
-                    }
-                ],
-                "channels2": []
-            },
-            {
-                "time": "00:00",
-                "event": "College Hockey : Mercyhurst vs RIT",
-                "channels": [
-                    {
-                        "channel_name": "Sportsnet Pittsburgh",
-                        "channel_id": "922"
-                    }
-                ],
-                "channels2": []
-            },
-            {
-                "time": "00:30",
-                "event": "College Hockey : Maine vs Connecticut",
-                "channels": [
-                    {
-                        "channel_name": "NESN USA",
-                        "channel_id": "762"
-                    }
-                ],
-                "channels2": []
-            },
-            {
-                "time": "01:30",
-                "event": "College Hockey : Notre Dame vs Wisconsin",
-                "channels": [
-                    {
-                        "channel_name": "BTN USA",
-                        "channel_id": "397"
-                    }
-                ],
-                "channels2": []
-            },
-            {
                 "time": "14:00",
                 "event": "MHL : MHC Spartak vs Russkie Vityazi",
                 "channels": [
@@ -9383,6 +9310,17 @@
                 "channels2": []
             },
             {
+                "time": "16:30",
+                "event": "Slovakia Extraliga : Spisska Nova Ves vs. HK Nitra",
+                "channels": [
+                    {
+                        "channel_name": "JOJ Sport Slovakia HD",
+                        "channel_id": "1"
+                    }
+                ],
+                "channels2": []
+            },
+            {
                 "time": "17:00",
                 "event": "DEL : Grizzlys Wolfsburg vs ERC Ingolstadt",
                 "channels": [
@@ -9400,6 +9338,72 @@
                     {
                         "channel_name": "Magenta Sport 302",
                         "channel_id": "28"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "18:00",
+                "event": "Sweden SDHL Women : Bryn\u00e4s IF vs Djurg\u00e5rdens IF",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sportkanalen",
+                        "channel_id": "707"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Vasteras vs Vimmerby",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 3",
+                        "channel_id": "705"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Nybro vs IF Bjorkloven",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 4",
+                        "channel_id": "706"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Mora vs Oskarshamn",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 2",
+                        "channel_id": "704"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Djurgardens vs Sodertalje",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Hockey",
+                        "channel_id": "700"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : BIK Karlskoga vs AIK",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 1",
+                        "channel_id": "703"
                     }
                 ],
                 "channels2": []
@@ -9471,67 +9475,67 @@
                 "channels2": []
             },
             {
-                "time": "18:00",
-                "event": "Sweden SDHL Women : Bryn\u00e4s IF vs Djurg\u00e5rdens IF",
+                "time": "19:30",
+                "event": "France Ligue Magnus : Jokers de Cergy-Pontoise vs Br\u00fbleurs de Loups Grenoble",
                 "channels": [
                     {
-                        "channel_name": "TV4 Sportkanalen",
-                        "channel_id": "707"
+                        "channel_name": "Sport en France",
+                        "channel_id": "158"
                     }
                 ],
                 "channels2": []
             },
             {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Vasteras vs Vimmerby",
+                "time": "23:00",
+                "event": "College Hockey : Penn State vs Michigan State",
                 "channels": [
                     {
-                        "channel_name": "TV4 Sport Live 3",
-                        "channel_id": "705"
+                        "channel_name": "BTN USA",
+                        "channel_id": "397"
                     }
                 ],
                 "channels2": []
             },
             {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Nybro vs IF Bjorkloven",
+                "time": "00:00",
+                "event": "College Hockey : St. Lawrence vs Colgate",
                 "channels": [
                     {
-                        "channel_name": "TV4 Sport Live 4",
-                        "channel_id": "706"
+                        "channel_name": "SportsNet New York USA",
+                        "channel_id": "759"
                     }
                 ],
                 "channels2": []
             },
             {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Mora vs Oskarshamn",
+                "time": "00:00",
+                "event": "College Hockey : Mercyhurst vs RIT",
                 "channels": [
                     {
-                        "channel_name": "TV4 Sport Live 2",
-                        "channel_id": "704"
+                        "channel_name": "Sportsnet Pittsburgh",
+                        "channel_id": "922"
                     }
                 ],
                 "channels2": []
             },
             {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Djurgardens vs Sodertalje",
+                "time": "00:30",
+                "event": "College Hockey : Maine vs Connecticut",
                 "channels": [
                     {
-                        "channel_name": "TV4 Hockey",
-                        "channel_id": "700"
+                        "channel_name": "NESN USA",
+                        "channel_id": "762"
                     }
                 ],
                 "channels2": []
             },
             {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : BIK Karlskoga vs AIK",
+                "time": "01:30",
+                "event": "College Hockey : Notre Dame vs Wisconsin",
                 "channels": [
                     {
-                        "channel_name": "TV4 Sport Live 1",
-                        "channel_id": "703"
+                        "channel_name": "BTN USA",
+                        "channel_id": "397"
                     }
                 ],
                 "channels2": []
