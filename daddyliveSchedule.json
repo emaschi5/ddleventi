@@ -12134,51 +12134,6 @@
                 "channels2": []
             }
         ],
-        "Tennis ATP - DOHA": [
-            {
-                "time": "15:00",
-                "event": "ATP - DOHA : Draper J. vs Rublev A.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream 4",
-                        "channel_id": "1504"
-                    },
-                    {
-                        "channel_name": "Tennis Stream 22",
-                        "channel_id": "1522"
-                    }
-                ],
-                "channels2": []
-            }
-        ],
-        "Tennis WTA - DUBAI": [
-            {
-                "time": "12:30",
-                "event": "WTA - DOHA : Siniakova K.\/Townsend T. vs Hsieh S-W.\/Ostapenko J.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream 21",
-                        "channel_id": "1521"
-                    }
-                ],
-                "channels2": []
-            },
-            {
-                "time": "15:00",
-                "event": "WTA - DOHA : Tauson C. vs Andreeva M.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream 01",
-                        "channel_id": "1501"
-                    },
-                    {
-                        "channel_name": "Tennis Stream 21",
-                        "channel_id": "1521"
-                    }
-                ],
-                "channels2": []
-            }
-        ],
         "Beach Soccer": [
             {
                 "time": "14:30",
@@ -12313,6 +12268,51 @@
                 "channels2": []
             }
         ],
+        "Tennis ATP - DOHA": [
+            {
+                "time": "15:00",
+                "event": "ATP - DOHA : Draper J. vs Rublev A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 22",
+                        "channel_id": "1522"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
+        "Tennis WTA - DUBAI": [
+            {
+                "time": "12:30",
+                "event": "WTA - DOHA : Siniakova K.\/Townsend T. vs Hsieh S-W.\/Ostapenko J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 21",
+                        "channel_id": "1521"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - DOHA : Tauson C. vs Andreeva M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 01",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 21",
+                        "channel_id": "1521"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
         "Tennis": [
             {
                 "time": "15:00",
@@ -12387,6 +12387,39 @@
                     }
                 ],
                 "channels2": []
+            },
+            {
+                "time": "05:15",
+                "event": "Challenger - Pune (IND) : Khumoyun Sultanov vs Dalibor Svrcina",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7522729",
+                        "channel_id": "7522729"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "Challenger - Pune (IND) : Brandon Holt vs Alexis Galarneau",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7522972",
+                        "channel_id": "7522972"
+                    }
+                ]
+            },
+            {
+                "time": "06:25",
+                "event": "Challenger - Pune (IND) - Double : J.Nedunchezhiyan\/V.Prashanth vs B.Bayldon\/M.C.Romios",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7523562",
+                        "channel_id": "7523562"
+                    }
+                ]
             }
         ],
         "Motorsport": [
