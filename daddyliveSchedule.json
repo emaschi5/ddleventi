@@ -1,5 +1,161 @@
 {
     "Saturday 22nd Feb 2025 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "15:00",
+                "event": "Lights Out 16",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "214"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "15:00",
+                "event": "RMSHA Simplot Hillclimb Challenge",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "215"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "15:00",
+                "event": "UAE Warriors 58 PPV",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "216"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "16:00",
+                "event": "2025 Seneca Allegany Snocross National",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "217"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "16:00",
+                "event": "2025 ADCC Portland Open",
+                "channels": [
+                    {
+                        "channel_name": "Flotv",
+                        "channel_id": "218"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "17:00",
+                "event": "SENSHI 25 MMA PPV",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "219"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "17:00",
+                "event": "GLORY 98: Uku Jurgendal vs Jamal Ben Saddik",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "220"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "18:00",
+                "event": "wXw: Dead End 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "176"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "19:00",
+                "event": "AMA Supercross Championship Arlington",
+                "channels": [
+                    {
+                        "channel_name": "Peacock",
+                        "channel_id": "177"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "19:00",
+                "event": "2025 World Series of Snowmobile Racing at Eagle River",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "178"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "00:30",
+                "event": "USCS Winter Heat Series 6",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "179"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "01:00",
+                "event": "Redneck Brawl 9",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "180"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "01:30",
+                "event": "Shamrock FC 361 PPV",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "181"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "02:00",
+                "event": "BYB Extreme 37: Denver Brawl 4",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "182"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
         "TV Show": [
             {
                 "time": "13:00",
