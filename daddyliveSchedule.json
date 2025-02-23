@@ -4545,6 +4545,23 @@
                 "channels2": []
             }
         ],
+        "Tennis ATP - RIO DE JANEIRO": [
+            {
+                "time": "20:30",
+                "event": "ATP - RIO DE JANEIRO : Baez S. vs Muller A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 22",
+                        "channel_id": "1522"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
         "Beach Soccer": [
             {
                 "time": "14:30",
