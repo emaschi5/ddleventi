@@ -4994,7 +4994,12 @@
                         "channel_id": "2"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7520096",
+                        "channel_id": "7520096"
+                    }
+                ]
             },
             {
                 "time": "17:00",
@@ -5226,7 +5231,7 @@
                 "channels2": []
             },
             {
-                "time": "21:10",
+                "time": "01:20",
                 "event": "England National League Cup - 00:30 - Sutton United vs Manchester United U21",
                 "channels": [
                     {
@@ -6016,7 +6021,12 @@
                         "channel_id": "142"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7476436",
+                        "channel_id": "7476436"
+                    }
+                ]
             },
             {
                 "time": "21:10",
@@ -6054,7 +6064,12 @@
                         "channel_id": "143"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7197340",
+                        "channel_id": "7197340"
+                    }
+                ]
             },
             {
                 "time": "22:00",
@@ -6103,7 +6118,12 @@
                         "channel_id": "140"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7210733",
+                        "channel_id": "7210733"
+                    }
+                ]
             },
             {
                 "time": "00:30",
@@ -6154,7 +6174,12 @@
                         "channel_id": "143"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7478037",
+                        "channel_id": "7478037"
+                    }
+                ]
             },
             {
                 "time": "00:30",
@@ -6533,10 +6558,10 @@
             },
             {
                 "time": "18:05",
-                "event": "MLB : New York Mets vs Houston Astros Space City",
+                "event": "MLB : New York Mets vs Houston Astros",
                 "channels": [
                     {
-                        "channel_name": "Home Network",
+                        "channel_name": "Space City Home Network",
                         "channel_id": "921"
                     },
                     {
@@ -6593,6 +6618,17 @@
             }
         ],
         "Basketball": [
+            {
+                "time": "19:30",
+                "event": "Italy - Serie A2 : Orzinuovi vs Pesaro",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7461089",
+                        "channel_id": "7461089"
+                    }
+                ]
+            },
             {
                 "time": "00:00",
                 "event": "NCAA : Cincinnati vs Baylor",
@@ -7008,7 +7044,12 @@
                         "channel_id": "144"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7374699",
+                        "channel_id": "7374699"
+                    }
+                ]
             }
         ],
         "Futsal": [
@@ -7314,6 +7355,39 @@
                     }
                 ],
                 "channels2": []
+            },
+            {
+                "time": "18:45",
+                "event": "Swiss - NLA : Fribourg Gotteron vs Biel Bienne",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7352470",
+                        "channel_id": "7352470"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "Swiss - NLA : Geneve Servette vs EV Zug",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7352471",
+                        "channel_id": "7352471"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "Swiss - NLA : ZSC Lions vs Davos",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7386016",
+                        "channel_id": "7386016"
+                    }
+                ]
             },
             {
                 "time": "00:00",
