@@ -1,5 +1,18 @@
 {
     "Thursday 27th Feb 2025 - Schedule Time UK GMT": {
+        "PPV Event": [
+            {
+                "time": "00:00",
+                "event": "OVW Live #1333",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "106"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
         "TV Shows": [
             {
                 "time": "13:30",
@@ -1178,7 +1191,23 @@
                         "channel_id": "746"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7364206",
+                        "channel_id": "7364206"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "Colombia - Primera B - Apertura : Patriotas Boyaca vs Orsomarso",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7482781",
+                        "channel_id": "7482781"
+                    }
+                ]
             },
             {
                 "time": "00:30",
@@ -1280,7 +1309,12 @@
                         "channel_id": "392"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7499087",
+                        "channel_id": "7499087"
+                    }
+                ]
             },
             {
                 "time": "01:30",
@@ -1306,7 +1340,12 @@
                         "channel_id": "66"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7427677",
+                        "channel_id": "7427677"
+                    }
+                ]
             }
         ],
         "Cricket": [
@@ -7729,6 +7768,17 @@
                     {
                         "channel_name": "Arena Sport 4 Croatia",
                         "channel_id": "580"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "19:00",
+                "event": "Indy NXT Series : Grand Prix of St. Petersburg, Practice",
+                "channels": [
+                    {
+                        "channel_name": "Fox Sports 2 USA",
+                        "channel_id": "758"
                     }
                 ],
                 "channels2": []
