@@ -1,5 +1,95 @@
 {
     "Friday 28th Feb 2025 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "13:00",
+                "event": "Arnold Sports Classic 1",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV 1",
+                        "channel_id": "169"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "13:00",
+                "event": "Arnold Sports Classic 2",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV 2",
+                        "channel_id": "170"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "13:00",
+                "event": "Arnold Sports Classic 3",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV 3",
+                        "channel_id": "171"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "13:00",
+                "event": "Arnold Sports Classic 4",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV 4",
+                        "channel_id": "172"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "13:00",
+                "event": "Arnold Sports Classic 5",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV 5",
+                        "channel_id": "173"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "13:00",
+                "event": "Arnold Sports Classic 6",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV 8",
+                        "channel_id": "174"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "15:00",
+                "event": "2025 World Series of Pro Mod at Bradenton Motorsports Park",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "175"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "16:30",
+                "event": "Porsche Sprint Challenge",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "176"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
         "TV Shows": [
             {
                 "time": "13:00",
@@ -3999,6 +4089,10 @@
                 "time": "12:30",
                 "event": "ONE Friday Fights 98",
                 "channels": [
+                    {
+                        "channel_name": "PPV Feed",
+                        "channel_id": "69"
+                    },
                     {
                         "channel_name": "Match TV Russia",
                         "channel_id": "127"
